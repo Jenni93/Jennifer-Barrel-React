@@ -4,7 +4,7 @@ Prueba para Barrel PRUEBA TÉCNICA FULLSTACK DEVELOPER
 
 ## Instalación
 
-1. Clona el repositorio: git clone [https://github.com/tu-usuario/tu-proyecto.git](https://github.com/Jenni93/Jennifer-Barrel-React.git)
+1. Clona el repositorio: git clone https://github.com/Jenni93/Jennifer-Barrel-React.git
 2. Navega hasta el directorio del proyecto: cd tu-proyecto
 3. Instala las dependencias: npm install
 
